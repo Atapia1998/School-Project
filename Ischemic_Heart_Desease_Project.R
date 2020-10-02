@@ -1,6 +1,6 @@
 #
 #
-#Arturo E Tapia 668309766 atapia25
+#Arturo E Tapia
 #Project1
 # 9.24.20
 #stats 382
